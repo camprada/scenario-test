@@ -1,6 +1,6 @@
 Feature:
   <Some interesting description here>
-  This is a test with latest version from marketplace #1
+  This is a test with latest version from marketplace #2
 
   Scenario:
     <Some interesting scenario steps here>
